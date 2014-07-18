@@ -1,0 +1,5 @@
+[03-Jun-2014 10:24:03 Asia/Kolkata] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/locura/public_html/mindjinn.com/case/app/controllers/AccountController.php on line 0
+[03-Jun-2014 10:25:29 Asia/Kolkata] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/locura/public_html/mindjinn.com/case/app/controllers/AccountController.php on line 0
+[03-Jun-2014 10:25:56 Asia/Kolkata] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/locura/public_html/mindjinn.com/case/app/controllers/AccountController.php on line 0
+[03-Jun-2014 10:41:00 Asia/Kolkata] PHP Fatal error:  Class 'view' not found in /home/locura/public_html/mindjinn.com/case/app/controllers/AccountController.php on line 241
+[05-Jun-2014 00:03:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/locura/public_html/mindjinn.com/case/app/controllers/CasesController.php on line 310
